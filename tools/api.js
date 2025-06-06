@@ -14,10 +14,10 @@ const data = {
 for (const a of [
   'raylib',
   'raygui',
+  'rlgl',
   // 'raymath',
-  'reasings',
-  // 'rlgl',
-  'rcamera',
+  // 'reasings',
+  // 'rcamera',
   // 'rmem',
   // 'rres'
 ]) {
